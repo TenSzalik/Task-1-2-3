@@ -12,11 +12,7 @@ dic = {"1": "",
        "9": "w" "x" "y" "z",
 }
 
-y = 0
-x = 0
-b = 0
-k = 0
-d = 0
+y, x, b, d = 0, 0, 0, 0
 combinations = []
 
 #zapętlaj dopóki y (0) nie będzie równe dłogości input num
