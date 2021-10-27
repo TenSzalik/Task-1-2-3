@@ -28,4 +28,4 @@ Liczy wszyskie możliwe kombinacje liter podanego numeru. Litery przypisane nume
 
 Task 3:
 
-Zwraca wyjustowany przez nas tekst w odpowiedniej szerokości (również przez nas podanej) w formie listy. Gotywy tekst ma równomierne spacje i jest wyrównany do lewej.
+Justuje podany przez nas tekst do w odpowiedniej szerokości (również przez nas podanej) i w formie listy, za pomocą modułu 'textwrap' i 're'. Gotywy tekst ma równomierne spacje i jest wyrównany do lewej.
